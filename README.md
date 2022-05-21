@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @JoedewYT
-- 👀 I’m interested in Programming, Gaming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Discord: "JoeDew#9415"
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoedewYT)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 JoedewYT/JoedewYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
